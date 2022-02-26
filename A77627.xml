@@ -1,0 +1,653 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Plain, brief, and pertinent rules, for the judicious and artificial syllabication of all English words, according to art, and the institution of the same tongue With directions for the use of the English syllabary, and the English monosyllabary, and the said rules of syllabication. / By Jo. Brooksbank.</title>
+            <author>Brookbank, Joseph, b. 1612.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77627</idno>
+            <idno type="STC">Wing B4976</idno>
+            <idno type="STC">Thomason E2136_3</idno>
+            <idno type="STC">ESTC R208351</idno>
+            <idno type="EEBO-CITATION">99867308</idno>
+            <idno type="PROQUEST">99867308</idno>
+            <idno type="VID">119615</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77627)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119615)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 243:E2136[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Plain, brief, and pertinent rules, for the judicious and artificial syllabication of all English words, according to art, and the institution of the same tongue With directions for the use of the English syllabary, and the English monosyllabary, and the said rules of syllabication. / By Jo. Brooksbank.</title>
+                  <author>Brookbank, Joseph, b. 1612.</author>
+               </titleStmt>
+               <extent>[8], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With final errata leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English language --  Grammar --  1500-1799.</term>
+               <term>Reading --  Study and teaching --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Claire Tolan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Claire Tolan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119615:1" rendition="simple:additions"/>
+            <p>Plain, brief, and <hi>pertinent</hi> RVLES, For the <hi>Judicious</hi> and <hi>Artificial</hi> SYLLABICATION OF ALL ENGLISH WORDS, According to <hi>Art,</hi> and <hi>the Inſtitution</hi> of the ſame Tongue.</p>
+            <p>WITH Directions for the uſe of the <hi>Engliſh Syllabary,</hi> and the <hi>Engliſh Mo<g ref="char:EOLhyphen"/>noſyllabary,</hi> and the ſaid Rules of <hi>Syllabication.</hi>
+            </p>
+            <p>By <hi>Jo. Brooksbank.</hi>
+            </p>
+            <p>LONDON, Printed for the Author, 1654.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:119615:2"/>
+            <head>
+               <hi>To the</hi> Right Honourabl <hi>Sir</hi> Tho. Vyner <hi>Knight,</hi> Lord Mayor <hi>of the City of</hi> London, <hi>all</hi> Health and Happineſs ex<g ref="char:EOLhyphen"/>ternal, internal, and eternal.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>YOur at this time being the great <hi>Parent</hi> and <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> of this <hi>large</hi> and <hi>populous City,</hi> cauſeth me to acquaint your Honour with my preſent Intenti<g ref="char:EOLhyphen"/>on to make publick, theſe <hi>brief and ſhort rules for the Syllabication of our Engliſh Tongue,</hi> they being a preparation to an <hi>Art</hi> by me invented, for a ſpeedy, certain, and judicious facilitating, and per<g ref="char:EOLhyphen"/>fecting of the <hi>Orthography</hi> thereof. In this firſt di<g ref="char:EOLhyphen"/>vulging whereof, I apprehend none more fit, (conſide<g ref="char:EOLhyphen"/>ring their Occaſions to make uſe thereof) whereunto to <hi>commit</hi> the ſame for <hi>Patronage,</hi> than <hi>the Prenti<g ref="char:EOLhyphen"/>ces of your City of London,</hi> they being the loweſt <hi>eſtate</hi> and <hi>rank,</hi> under your Lordſhips great care and charge, whoſe <hi>right welfare</hi> and <hi>propriety</hi> is determined, ſtated, and ſecured, by your <hi>Authority</hi>
+               <pb facs="tcp:119615:3"/> 
+               <hi>and Fatherly care;</hi> Wherfore in my thoughts here<g ref="char:EOLhyphen"/>on, I conceived it a foul piece of <hi>Impudence, and diſorderly boldneſſe</hi> in me, to let ſuch an attempt <hi>appear in the world,</hi> before I had made an <hi>Ad<g ref="char:EOLhyphen"/>dreſs</hi> to your Honour for <hi>Allowance and appro<g ref="char:EOLhyphen"/>bation thereof:</hi> I humbly therefore proſtrate both <hi>my ſelf,</hi> and theſe my <hi>Indeavours,</hi> at your Lord<g ref="char:EOLhyphen"/>ſhips feet, in all humbl wiſe craving your good <hi>leav</hi> in, and <hi>favourabl acceptance</hi> of this my <hi>clear in<g ref="char:EOLhyphen"/>tention</hi> in this enterprize, for the unſpeakable bene<g ref="char:EOLhyphen"/>fit of my <hi>Nativ Countrey;</hi> which if your <hi>Lord<g ref="char:EOLhyphen"/>ſhip</hi> will pleaſ to further, I ſhall ever remain,</p>
+            <closer>
+               <signed>
+                  <hi>Your Honours thankfull Servant in the work of our Lord Jeſus.</hi> Jo: Brooksbank.</signed>
+               <dateline>
+                  <date>
+                     <hi>March 1654.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:119615:3"/>
+            <head>
+               <hi>To the right Worſhipfull the</hi> Al<g ref="char:EOLhyphen"/>dermen <hi>of the City of London, all</hi> peace and true happineſs in this life, and that which is to come.</head>
+            <opener>
+               <salute>Right Worſhipfull,</salute>
+            </opener>
+            <p>THe Government and wel-being of this Ci<g ref="char:EOLhyphen"/>ty lying under your <hi>care and charge,</hi> and Gods providence having lead me to an <hi>Inven<g ref="char:EOLhyphen"/>tion</hi> for the unſpeakabl good of my <hi>Nativ Coun<g ref="char:EOLhyphen"/>try</hi> comprehended in a <hi>brief and judicious Art of teaching to ſpell, read, and write</hi> our <hi>Engliſh tongue,</hi> which I call <hi>Syllabication;</hi> the Profit whereof you may eaſily diſcern by the peruſal of the ſucceeding <hi>R<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les and Directions,</hi> dedicated to the Prentices of your City, who are under your <hi>rule and governance;</hi> wherefore I conceiv it my duty humbly as it is, to <hi>preſent</hi> it and my <hi>ſelf</hi> to your <hi>Worſhips allowance and approbation,</hi> in all humbl manner craving your favour and furthe<g ref="char:EOLhyphen"/>rance therein; and I ſhall ever remain,</p>
+            <closer>
+               <dateline>
+                  <date>March 1654.</date>
+               </dateline>
+               <signed>
+                  <hi>Yours in the Lord Jeſus,</hi> Jo: Brooksbank.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:119615:4"/>
+            <head>To the hopefull, and renowned <hi>Eſtate of Apprentices,</hi> in the great, fa<g ref="char:EOLhyphen"/>mous, and ancient <hi>City of London,</hi> the glorious <hi>Mother,</hi> and <hi>Metropolis</hi> of the admired Iſle of <hi>Great Britain,</hi> all Succeſs and Proſperity in <hi>this World,</hi> and that which <hi>is to come.</hi>
+            </head>
+            <opener>
+               <salute>Hopefull Gentlemen, and Apprentices,</salute>
+            </opener>
+            <p>THis Dedication may ſeem strange, but the nature of this buſineſs is ſuch, that I know not where more fitly to deſire <hi>ſhelter,</hi> than from your ſelves, you gene<g ref="char:EOLhyphen"/>rally abov all others having <hi>learning and ingenuity to apprehend, leaſure to peruſe, and occaſion to uſe</hi> all theſe preſent pieces, as the beſt remedy yet extant to perfect the <hi>Orthography</hi> of our <hi>Engliſh Tongue,</hi> with Iudgement, Art, and Experience. Your univerſal and unanimous <hi>complaints</hi> of your wants herein, and the view of your <hi>Shop-books, Receits, Bils, and Let<g ref="char:EOLhyphen"/>ters</hi> to your best and deareſt Friends, and not only a<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gſt you, but indeed uſually amongſt moſt of men, there being few able <hi>rationally</hi> and <hi>artificially</hi> to <hi>write</hi>
+               <pb facs="tcp:119615:4"/> our Mother tongue, hath prevailed with me to make an offer of my <hi>earneſt deſire</hi> of your favour to patronize <hi>and protect</hi> theſe <hi>rules of Syllabication, and directi<g ref="char:EOLhyphen"/>ons</hi> for the uſe of theſe two Tracts, contrived and com<g ref="char:EOLhyphen"/>poſed for the <hi>ſpeedy profit, and perfecting</hi> of all firſt Learners to <hi>ſpell, read, and write</hi> our Engliſh Tongue; <hi>An Art,</hi> the Myſtery whereof you may well find out, with that Trade you are ſet apart to learn to live by: which being don, I know you may thereby, not only un<g ref="char:EOLhyphen"/>speakably <hi>profit, and benefit your ſelvs,</hi> but alſo vent the <hi>Myſtery</hi> thereof, as far, or farther than your <hi>Wares,</hi> which to all well diſpoſed youth will be <hi>a glory, a delight,</hi> and <hi>a profit;</hi> but knowing that long ago you have learned what this means, <hi>Verbum ſapienti,</hi> relying upon your <hi>Candor,</hi> and <hi>Ingenuity</hi> herein, I am,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>March, 1654.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Yours, in the ſervice of our Lord Ieſus,</hi> Io: Brooksbank.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119615:5"/>
+            <pb n="1" facs="tcp:119615:5"/>
+            <head>Plain, brief, and pertinent <hi>Rules,</hi> for a <hi>Judicious</hi> and <hi>ar<g ref="char:EOLhyphen"/>tificial Syllabication</hi> of all <hi>Engliſh</hi> Words according to Art, and the Inſtitution of the ſame Tongue.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N a true, regular, and Artificial <hi>Syllabication, of Engliſh words,</hi> it muſt be noted, and obſerved, that <hi>A ſyllabl is a full and perfect ſound, made of ſo many letters as we ſpell together;</hi> wherein the <hi>numerati<g ref="char:EOLhyphen"/>on</hi> of <hi>ſyllabls</hi> muſt be firſt known, and then their right, and regular <hi>Diviſion,</hi> according to the Rules enſuing, as followeth.</p>
+            <div type="part">
+               <div type="section">
+                  <head>Rules for the Numeration of ſyllabls in any word.</head>
+                  <p>
+                     <hi>Rule.</hi> FOr the moſt part, there is the ſame num<g ref="char:EOLhyphen"/>ber of Syllabls, in a word, that there is of of Vowels, as in <hi>moſt,</hi> one Vowel, <hi>[o]</hi> and there<g ref="char:EOLhyphen"/>fore but <hi>one Syllabl: utmoſt,</hi> two Vowels, <hi>[u]</hi> &amp; <hi>[o]</hi>
+                     <pb n="2" facs="tcp:119615:6"/> and therefore <hi>two Syllabls, &amp;c.</hi> Herein are thrée Exceptions.</p>
+                  <p>
+                     <hi>Except.</hi> 1. When there is a Diphthong in a word, as <hi>[oy]</hi> in <hi>boy, [ou]</hi> in <hi>four, [ee]</hi> in <hi>heed, [ea]</hi> in <hi>earth.</hi>
+                  </p>
+                  <p n="2">2. When <hi>[i] [u]</hi> or <hi>[y]</hi> are made Conſonants, there may ſéem to be a Vowel more than Syllabls, as <hi>[j]</hi> in <hi>jar, [v]</hi> in <hi>vent,</hi> and both in <hi>Iavan, [y]</hi> in <hi>yet.</hi>
+                  </p>
+                  <p n="3">3. When there is a Vowel, in a word not ſoun<g ref="char:EOLhyphen"/>ded, as <hi>[a]</hi> in <hi>beauty, [e]</hi> in <hi>George, [i]</hi> in <hi>field, [o]</hi> in <hi>peopl, [u]</hi> in <hi>guide.</hi>
+                  </p>
+                  <p>In this <hi>Exception</hi> it muſt be known, when, and where any of the vowels are <hi>not ſounded;</hi> which may be by the <hi>Rules, Exceptions, and Limitations</hi> following.</p>
+                  <p>
+                     <hi>Rule</hi> 1. <hi>[a]</hi> Is not ſounded in <hi>ſteward, coward, beauty, creature, Sabaoth, Pharaoh, Baal, Canaan, Iſaac, Beaumont, Beawley, Beauchamp.</hi>
+                  </p>
+                  <p>
+                     <hi>Rule</hi> 2. <hi>[e]</hi> Is not ſounded in <hi>George,</hi> nor till of late in <hi>Geometry;</hi> nor in words that end in <hi>[en]</hi> as <hi>taken;</hi> or in <hi>[e]</hi> as <hi>bare, hide;</hi> or in <hi>[es]</hi> as <hi>bones, ſtones, &amp;c.</hi> Here we are to note theſe Ex<g ref="char:EOLhyphen"/>ceptions.</p>
+                  <p>
+                     <hi>Except.</hi> 1. Forraign proper names, ending in <hi>[e]</hi> may have as many vowels, as ſyllabls; as <hi>Der-be</hi> two ſyllabls, not <hi>Derbe</hi> one ſyllable: <hi>Pe-ne-lo-pe</hi> four ſyllabls, not <hi>Pene-lope</hi> thrée ſyllabls; as alſo certain <hi>Monoſyllabls</hi> that end in <hi>[e]</hi> as <hi>be, he, &amp;c.</hi>
+                  </p>
+                  <pb n="3" facs="tcp:119615:6"/>
+                  <p>
+                     <hi>Lim.</hi> Yet we ſay <hi>Mamre</hi> and <hi>Tyre</hi> Monoſyllabls, and <hi>Euſtace</hi> two ſyllabls.</p>
+                  <p>
+                     <hi>Except.</hi> 2. All proper names ending in <hi>[es]</hi> have as many ſyllabls as vowels when they end in <hi>[es]</hi> as <hi>Azores, Antipodes, &amp;c.</hi>
+                  </p>
+                  <p n="3">3. There are ſix <hi>Engliſh Terminations</hi> ending in <hi>[es]</hi> which may have as many ſyllabls as vowels, when they end in
+<list>
+                        <item>1 <hi>ges,</hi> as <hi>cages</hi>
+                        </item>
+                        <item>2 <hi>ces,</hi> with [c] as <hi>faces</hi>
+                        </item>
+                        <item>3 <hi>ſes,</hi> with [ſ] as <hi>roſes a xes</hi>
+                        </item>
+                        <item>4 <hi>zes,</hi> as <hi>Mazes,</hi>
+                        </item>
+                        <item>5 <hi>ches,</hi> as <hi>riches,</hi>
+                        </item>
+                        <item>6 <hi>ſhes,</hi> as <hi>ruſhes.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>
+                     <hi>Rule</hi> 3. Words ending in <hi>[e]</hi> or <hi>[es]</hi> derived, or compounded, have the vowel <hi>[e]</hi> more than ſyl<g ref="char:EOLhyphen"/>labls; as in <hi>lameneſs, therefore, hatefull, &amp;c.</hi>
+                  </p>
+                  <p n="4">4. <hi>[i]</hi> Is not ſounded in <hi>neither, chariot, medi<g ref="char:EOLhyphen"/>cin,</hi> nor betwixt <hi>[u]</hi> &amp; <hi>[t]</hi> as in <hi>fruit, ſuit, &amp;c.</hi>
+                  </p>
+                  <p>
+                     <hi>Except</hi> in <hi>recruit, circuit, conduit, ſubtil.</hi>
+                  </p>
+                  <p>
+                     <hi>Rule</hi> 4. <hi>[i]</hi> Is not ſounded after a Conſonant, and before <hi>[e]</hi> as in <hi>Prieſt, pieces, &amp;c.</hi>
+                  </p>
+                  <p>
+                     <hi>Except</hi> in <hi>dier, diet, quiet.</hi> And all words end<g ref="char:EOLhyphen"/>ing in <hi>[y]</hi> made derivativs by changing <hi>[y]</hi> into <hi>[i]</hi> adding <hi>[ed]</hi> thereunto, as <hi>tied, died, eſpied,</hi> yet they are doubtleſs more truly writen <hi>tyed, dyed. eſpyed, &amp;c.</hi>
+                  </p>
+                  <p>
+                     <hi>Rule</hi> 5. <hi>[o]</hi> Is not ſounded in Polyſyllabls end<g ref="char:EOLhyphen"/>ing in <hi>[ous]</hi> as <hi>furious, vicious, &amp;c.</hi> Nor in theſe words, <hi>Leopard, Tortoiſ, Gaol, Ieoffery, infeoff, iron, peopl, yeoman, jeopardy, damoſel, oeconomick,
+<pb n="4" facs="tcp:119615:7"/> ſoloeciſm, bloud, floud, courteſy, countrey, touch, troubl. doubl, enough, cough, coupl.</hi>
+                  </p>
+                  <p>
+                     <hi>Rule</hi> 6. <hi>[u]</hi> Is not ſounded after <hi>[q]</hi> as in <hi>quart, qu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lt.</hi>
+                  </p>
+                  <p>
+                     <hi>Rule</hi> 7. <hi>[u]</hi> Is never ſounded after <hi>[g]</hi> before a vowel, as in <hi>guard, guide.</hi>
+                  </p>
+                  <p>
+                     <hi>Rule</hi> 8. <hi>[u]</hi> Is not ſounded in words ending in <hi>[our]</hi> as <hi>labour, honour;</hi> Except in <hi>our, your.</hi>
+                  </p>
+                  <p>
+                     <hi>Rule</hi> 9. <hi>[u]</hi> Is not ſounded in theſe words fol<g ref="char:EOLhyphen"/>lowing, <hi>buy, victuals, brought, bought, nought, ought, build, conduit, circuit.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Rules for the Diviſion of Pollyſabls.</head>
+                  <p>
+                     <hi>Rule</hi> 1. VVHen two Vowels com together not making a Diphthong; then they muſt be divided, and the former muſt end the former ſyl<g ref="char:EOLhyphen"/>labl, and the latter muſt begin the latter, as <hi>[i] [a]</hi> in <hi>tri-<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l [<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>] [<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>]</hi> in <hi>tri-umph [ay] [i]</hi> in <hi>ſtay-ing, [e] [ai]</hi> in <hi>re aid. [oy] [ou]</hi> in <hi>joy-ous.</hi>
+                  </p>
+                  <p n="2">2. When one Conſonant coms betwixt two vow<g ref="char:EOLhyphen"/>els, it muſt begin the following ſyllabl, as <hi>[n]</hi> in <hi>a<g ref="char:EOLhyphen"/>ny [v]</hi> in <hi>e-ver. [l]</hi> in <hi>failing</hi>
+                  </p>
+                  <p>
+                     <hi>Except.</hi> 1. In words ending in <hi>[e]</hi> or <hi>[es]</hi> with one Conſonant before them, derived, or compoun<g ref="char:EOLhyphen"/>ded, as in <hi>hate, bated, hatefull.</hi>
+                  </p>
+                  <p n="2">2. In ſome compound words, as <hi>[ſ]</hi> in <hi>diſ-eſteem, [p]</hi> in <hi>up on.</hi>
+                  </p>
+                  <p n="3">3 When <hi>[x]</hi> coms betwixt two vowels, as in <hi>ex<g ref="char:EOLhyphen"/>ampl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ex-erciſe, &amp;c.</hi>
+                  </p>
+                  <p n="3">3. When more conſonants than one, come in the
+<pb n="5" facs="tcp:119615:7"/> middl of a word, then ſo many as may begin a word, muſt begin the following Syllabl, and the reſt muſt end the former, as <hi>[cr]</hi> in <hi>de-creaſ, [fr]</hi> in <hi>re fringe, [ſtr]</hi> in <hi>re-ſtrain, [ſpr]</hi> in <hi>de-ſprinkl, [ſtr]</hi> in <hi>con-ſtrain.</hi> Here it is to be obſerved, that no word can begin with abov thrée Conſonants; ſo that the main buſineſs of Diviſion in Syllabication, lyes in the Conſideration of two, and thrée Conſo<g ref="char:EOLhyphen"/>nants which may begin words.</p>
+                  <list>
+                     <head>The two Conſonants which may begin a word, are thirty, <hi>viz.</hi>
+                     </head>
+                     <item>Bl: as in <hi>blame</hi>
+                     </item>
+                     <item>Br: as in <hi>brave</hi>
+                     </item>
+                     <item>Ch: as in <hi>chair</hi>
+                     </item>
+                     <item>Cl: as in <hi>clap</hi>
+                     </item>
+                     <item>Cr: as in <hi>cramp</hi>
+                     </item>
+                     <item>Dr: as in <hi>draw</hi>
+                     </item>
+                     <item>Dw: as in <hi>dwell</hi>
+                     </item>
+                     <item>Fl: as in <hi>flame</hi>
+                     </item>
+                     <item>Fr: as in <hi>frame</hi>
+                     </item>
+                     <item>Gl: as in <hi>glad</hi>
+                     </item>
+                     <item>Gn: as in <hi>gnat</hi>
+                     </item>
+                     <item>Gr: as in <hi>grant</hi>
+                     </item>
+                     <item>Kn: as in <hi>know</hi>
+                     </item>
+                     <item>Pl: as in <hi>plow</hi>
+                     </item>
+                     <item>Pr: as in <hi>prate</hi>
+                     </item>
+                     <item>Qu: as in <hi>quart</hi>
+                     </item>
+                     <item>Sc: as in <hi>ſcant</hi>
+                     </item>
+                     <item>Sk: as in <hi>skill</hi>
+                     </item>
+                     <item>Sh: as in <hi>ſharp</hi>
+                     </item>
+                     <item>Sl: as in <hi>ſlip</hi>
+                     </item>
+                     <item>Sm: as in <hi>ſmart</hi>
+                     </item>
+                     <item>Sn: as in <hi>ſnow</hi>
+                     </item>
+                     <item>Sp: as in <hi>ſpeed</hi>
+                     </item>
+                     <item>St: as in <hi>ſtab</hi>
+                     </item>
+                     <item>Sw: as in <hi>ſwine</hi>
+                     </item>
+                     <item>Th: as in <hi>think</hi>
+                     </item>
+                     <item>Tr: as in <hi>tree</hi>
+                     </item>
+                     <item>Tw: as in <hi>two</hi>
+                     </item>
+                     <item>Wh: as in <hi>which</hi>
+                     </item>
+                     <item>Wr: as in <hi>wrench.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <pb facs="tcp:119615:8"/>
+                     <head>The three Conſonants which may begin a word, are eleven, <hi>viz.</hi>
+                     </head>
+                     <item>Sch: as in <hi>ſchool</hi>
+                     </item>
+                     <item>Scr: as in <hi>ſcrape</hi>
+                     </item>
+                     <item>Skr: as in <hi>skreek</hi>
+                     </item>
+                     <item>Shr: as in <hi>ſhrew</hi>
+                     </item>
+                     <item>Spl: as in <hi>ſplint</hi>
+                     </item>
+                     <item>Spr: as in <hi>ſprint</hi>
+                     </item>
+                     <item>Squ: as in <hi>ſquint</hi>
+                     </item>
+                     <item>Str: as in <hi>ſtrength</hi>
+                     </item>
+                     <item>Thr: as in <hi>throw</hi>
+                     </item>
+                     <item>Thw: as in <hi>thwait</hi>
+                     </item>
+                     <item>Chr: as in <hi>Chriſt.</hi>
+                     </item>
+                  </list>
+                  <p>
+                     <hi>Excep.</hi> In theſe two laſt rules, this exception is to be well known, that Derivativ and Compound words, do not always kéep that order in their Divi<g ref="char:EOLhyphen"/>ſion, by reaſon they often take their firſt Primitiv &amp; Derivativ words for their firſt Syllabl, as <hi>ſtate-ly, ſhame-full, diſ-eſteem, tranſ-poſe.</hi>
+                  </p>
+                  <p>That the <hi>Syllabication</hi> of our <hi>Language,</hi> may be <hi>Artificial;</hi> words may be known by theſe <hi>Terms of Art</hi> following.</p>
+                  <list>
+                     <item>A word of one letter, is a <hi>Monogram</hi>
+                     </item>
+                     <item>A word of two letters, is a <hi>Digram</hi>
+                     </item>
+                     <item>A word of thrée letters, is a <hi>Trigram</hi>
+                     </item>
+                     <item>A word of four letters, is a <hi>Tetragram</hi>
+                     </item>
+                     <item>A word of five letters, is a <hi>Pentegram</hi>
+                     </item>
+                     <item>A word of ſix letters is an <hi>Hexagram</hi>
+                     </item>
+                     <item>A word of ſeven letters, is an <hi>Heptagram</hi>
+                     </item>
+                     <item>A word of eight letters, is an <hi>Octogram</hi>
+                     </item>
+                     <item>A word of nine letters, is an <hi>Eneagram</hi>
+                     </item>
+                     <pb n="7" facs="tcp:119615:8"/>
+                     <item>A word of many letters, is a <hi>Polygram</hi>
+                     </item>
+                     <item>A word of one ſyllabl, is a <hi>Monoſyllabl</hi>
+                     </item>
+                     <item>A word of two ſyllabls, is a <hi>Diſſyllabl</hi>
+                     </item>
+                     <item>A word of thrée ſyllabls, is a <hi>Tryſſyllabl</hi>
+                     </item>
+                     <item>A word of four ſyllabls, is a <hi>Tetraſyllabl</hi>
+                     </item>
+                     <item>A word of five ſyllabls, is a <hi>Penteſyllabl</hi>
+                     </item>
+                     <item>A word of ſix ſyllabls, is an <hi>Hexaſyllabl</hi>
+                     </item>
+                     <item>A word of ſeven ſyllabls, is an <hi>Heptaſyllabl</hi>
+                     </item>
+                     <item>A word of many ſyllabls, is a <hi>Polyſyllabl.</hi>
+                     </item>
+                  </list>
+               </div>
+            </div>
+            <div type="part">
+               <head>Inſtructions and Directions; how and in what manner to uſe the two praeceding Books, and the Rules of Syllabication.</head>
+               <p>IT hath now (for many years) been my greateſt care and thoughts to perfect an <hi>Engliſh Abceda<g ref="char:EOLhyphen"/>ry,</hi> whereby to compleat any one in the <hi>Artifici<g ref="char:EOLhyphen"/>al.</hi> Grammatical, and <hi>judicious spelling, reading,</hi> and Orthographical writing of our <hi>Engliſh Tongue;</hi> the firſt parts whereof I have herewith made publick; the reaſons whereof are too many, and for ſome con<g ref="char:EOLhyphen"/>ſiderations unfit to be here inſerted, only this their coming abroad in this bare and naked condition, in<g ref="char:EOLhyphen"/>forces me hereby to unlock and unfold, their <hi>mani<g ref="char:EOLhyphen"/>fold, great, and profitabl uſe,</hi> for the Benefit of all, but eſpecially the firſt enterers, to learn to ſpell, and
+<pb n="8" facs="tcp:119615:9"/> read; wherein I muſt take leav to ſpeak a litl unto three ſorts of peopl.</p>
+               <list>
+                  <item>1 All Family Maſters whom it may concern.</item>
+                  <item>2 The Learners thereof.</item>
+                  <item>3 All Teachers thereof.</item>
+               </list>
+               <p n="1">1. All Family Maſters that commit their <hi>Children, Servants, Appren<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ices,</hi> or others, to the learning of the <hi>Engliſh Tongue,</hi> it is their parts and duties, 1. To provide <hi>honeſt and able</hi> Teachers: <hi>Honeſt,</hi> to take pains therein with care, and Conſcience: <hi>able,</hi> be<g ref="char:EOLhyphen"/>cauſe perſon unabl for ſuch a purpoſe, though very honeſt, and conſcientious in other matcers, whil'ſt unabl, can never bring any to <hi>spelling, reading, &amp; writing,</hi> with reaſon and judgement. 2. Having provided ſuch a <hi>School-maſter,</hi> or <hi>School-mistris,</hi> they muſt leav the main buſineſs of their Childrens teach<g ref="char:EOLhyphen"/>ing, to their care and diſcretion, providing ſuch Books and neceſſaries for them, as their ſaid <hi>Maſter</hi> or <hi>Miſtris</hi> ſhall think fit: keeping their Children <hi>mannerly, civilly, and orderly at home;</hi> for a <hi>School-teacher</hi> ſhall find more eaſ and content, to himſelf, with greater profit to all <hi>Parties</hi> concerned therein, in teaching <hi>twenty Children</hi> well nurtured, &amp; tutored at home, than in <hi>two or three,</hi> whoſe Parents or Ma<g ref="char:EOLhyphen"/>ſters ſuffer them to be at home, without <hi>Order or Government.</hi> It is alſo a ſilly, Nonſenſical conceit amongſt the vulgar, That the Scholars Manners and Carriage depends ſolely upon the <hi>School-teachers</hi> care, and heed; whether their <hi>cariage</hi> be expected
+<pb n="9" facs="tcp:119615:9"/> from them at home or at <hi>School;</hi> a tax too great for any ſingl mans performance; How may any man think? whilſt he himſelf rules not his few at home, any <hi>Schoolmaster</hi> can govern his great number, according to his deſire, both at School, and at home; their Children being ſo diſordered by them whilſt they are with them, frequently occaſioning more troubl, and vexattion at School than all the reſt. 3. <hi>Ma<g ref="char:EOLhyphen"/>ſters, or Parents</hi> having thus committed their charge, to fitting <hi>Teachers,</hi> they muſt likewiſe have a care to ſend them conſtantly at all <hi>School-hours,</hi> which in all well ordered Schools, is <hi>ſeven in the morning,</hi> and <hi>one in the afternoon,</hi> at the fartheſt; and what they have learned in the School every day, to hear them repeat it every night, as they were taught it; not deſiring to change their <hi>School teacher,</hi> except upon very good cauſ, nor <hi>their Books,</hi> without the <hi>Advice</hi> of the <hi>Teachers,</hi> therein not wiſhing too <hi>ha<g ref="char:EOLhyphen"/>ſty or speedy a progreſs,</hi> but to giv time and leaſure, and they will learn with much more <hi>judgement,</hi> and <hi>certainty,</hi> in far leſs time than <hi>Parents</hi> can expect; for <hi>Parents neglect</hi> in theſe things cauſeth <hi>great delay,</hi> and hinderance in their <hi>Childrens learning.</hi>
+               </p>
+               <p n="2">2. There are <hi>four things</hi> required in Learners, 1. <hi>Lov of Parent<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Teachers, and learning.</hi> 2. <hi>Obedience</hi> and <hi>Submiſſion</hi> unto all. 3. <hi>Attention and heed to what is taught.</hi> 4. <hi>Study and Industry in their Books.</hi>
+               </p>
+               <p n="3">3. <hi>All Teachers,</hi> eſpecially thoſe who firſt enter
+<pb n="10" facs="tcp:119615:10"/> the <hi>learners of our Engliſh Tongue,</hi> are to giv heed unto <hi>four things,</hi> 1 That they be <hi>painfull and diligent therein,</hi> 2 <hi>That they have skill and ability to perform the ſame.</hi> 3 <hi>Diſcipline, and Government.</hi> 4 <hi>A right way and Method in teaching.</hi>
+               </p>
+               <p n="1">1. That they be <hi>painfull, and diligent;</hi> in the per<g ref="char:EOLhyphen"/>formance of their <hi>charge,</hi> without which no deſired <hi>end</hi> can be attained in purſuance, whereof they are to be very zealous for <hi>the glory of God,</hi> the <hi>edification of his Church,</hi> and a <hi>laudabl education of youth,</hi> for which purpoſe they muſt follow their <hi>School atten<g ref="char:EOLhyphen"/>tivly,</hi> without the leaſt remiſsneſs therein, and that continually all School-hours, not taking the leaſt time, either to ſtudy any other thing, or to read o<g ref="char:EOLhyphen"/>ther books, than in the carefull hearing of their <hi>Scho<g ref="char:EOLhyphen"/>lars Leſſons</hi> or exerciſe, not omitting <hi>any form, or any Scholar,</hi> hearing them all with <hi>leaſure, care, and heed.</hi>
+               </p>
+               <p n="2">2. <hi>Skill,</hi> it is beſides my buſineſs, and mine Inten<g ref="char:EOLhyphen"/>tions, herein to giv <hi>directions</hi> to the great and learn<g ref="char:EOLhyphen"/>ed profeſt <hi>Grammar-Schoolmaſters</hi> of our Nation; that they may gain skill by my help: my <hi>aim and un<g ref="char:EOLhyphen"/>dertaking herein,</hi> being only at an <hi>Inſtruction</hi> of thoſe who undertake the <hi>teaching of Engliſh,</hi> and are wil<g ref="char:EOLhyphen"/>ling to be perſwaded to make uſe of <hi>this my way,</hi> wherein it is as yet impoſſibl, for any Man to be as apprehenſiv as my ſelf, it being an Invention, which I have made my main buſineſs, this laſt eleven years, and upwards, thoſe therefore that are willing to be
+<pb n="11" facs="tcp:119615:10"/> ſo acquainted herein: as to make uſe thereof, in tea<g ref="char:EOLhyphen"/>ching others; firſt they muſt carefully read over, and ſeriouſly ſtudy, all theſe ſeveral pieces, ſo as they may fully underſtand the Method, and diſcern the ſcope thereof, but eſpecially in the <hi>Rules of Syllabication,</hi> and theſe preſent <hi>Directions,</hi> all which will eaſily be done by <hi>diligent obſervation,</hi> and muſt be had before they venter upon teaching the<g ref="char:cmbAbbrStroke">̄</g> to others; after which they may find therein abundance of profit, and de<g ref="char:EOLhyphen"/>lightful recreation and thereby be fully inabled for ſo laudabl an undertaking, as the teaching thereof.</p>
+               <p n="3">3. <hi>Diſcipline and Government;</hi> All things, with<g ref="char:EOLhyphen"/>out this, are various, fickl, and unſteady, without which no School can ever be ordered aright; there<g ref="char:EOLhyphen"/>fore when the Teacher hereof hath got skill, if he purpoſe to make uſe of this way in teaching, his next care muſt be orderly to govern and rule his Scholars; as much as in him lies, <hi>keeping them</hi> in a knowledg; of themſelvs and their buſineſs, with <hi>fitting Reve<g ref="char:EOLhyphen"/>rence and reſpect to all their betters, and Superiours; but eſpecially unto all thoſe, under whoſe care and charge they ſtand, and more particularly their Tea<g ref="char:EOLhyphen"/>chers.</hi> But to ſpeak more home, who ever you be that are willing to entertain, and make uſe of this courſ, your next buiſineſs will be, if your number of Scholars will bear it, to divide them all into four Forms, which for brevities ſake, I call the higheſt, higher, lower, and loweſt Forms, wherein (hearing, and teaching them, in a Grammar School way) you
+<pb n="12" facs="tcp:119615:11"/> have but (if your number will amount to ſo many) four leſſons to hear in your whole Engliſh School, matching them in their forms and places therein, ac<g ref="char:EOLhyphen"/>cording to their ſeveral ſtrengths and abilityes to take, and conceiv Learning; which you ſhall ſee more plainly and fully, in the manner and Method of Tea<g ref="char:EOLhyphen"/>ching: Having thus placed them in their proper <hi>Claſſes, therein</hi> draw them on by <hi>Emulation, Privi<g ref="char:EOLhyphen"/>leges, and Immunities; but in caſe theſe (as in ſom they will not) cannot prevail, then by puniſhments.</hi>
+               </p>
+               <p n="1">1 By <hi>Emulation</hi> ſetting thoſe that learn beſt, and labour hardeſt, higheſt in their Form; by this you ſhall oftentimes have one form turned, and changed up and down in one Leſſon ſaying; Children taking more delight in nothing, than in winning pla<g ref="char:EOLhyphen"/>ces.</p>
+               <p n="2">2. <hi>By Privileges</hi> and <hi>Immunities;</hi> let that Boy, that coms firſt to School in the Morning, bear the name of Captain of the School that day, and every boy that coms firſt of his Form, Captain of his Form for that day, none having power to win the Capts. place for his day, except he miſs twice for his once, that ſtrives for his place. It will alſo be an excellent thing, to have <hi>for each Form a Ferular</hi> provided, which every Capt. is to take at his firſt comming in the morning, and ever after ſo long as he keeps it, to obſerv diligently, who amongſt his Form-fellows firſt plays, talks, makes a noiſ, loiters, or otherwiſe neglects his Book, and to giv it to him with a ſmart
+<pb n="13" facs="tcp:119615:11"/> clap on the hand, he that receivs it doing the like, and ſo the reſt; but if at any time any one ſhall ob<g ref="char:EOLhyphen"/>ſerv the <hi>Cuſtos</hi> of his Form to neglect his duty here<g ref="char:EOLhyphen"/>in, let him take the <hi>ferular</hi> fro<g ref="char:cmbAbbrStroke">̄</g> him, giving to the <hi>Cu<g ref="char:EOLhyphen"/>stos</hi> two ſmart claps on the hand for his ſo miſ-doing; But here note, that it will breed an iaconvenience to ſuffer the ſame Boy to be Capt. two dayes together, though he come firſt both dayes; Let alſo that Boy that comes to School firſt, if unwaſh't, uncomb'd, or undreſs't, be denyed the priviledg of being Cap. whe<g ref="char:EOLhyphen"/>ther it be in the School, or in his Form, without pow<g ref="char:EOLhyphen"/>er to win places, before he be waſht, comb'd, and dreſs't: Your Scholars being thus marſhall'd, diſci<g ref="char:EOLhyphen"/>plined, and ordered, keep them conſtantly and con<g ref="char:EOLhyphen"/>tinually labouring their books, ſaying their Leſſons, or performing their exerciſe till they depart School; and in their going out, let every Boy ſtand in his place, repeat a full point, or clauſ in the Elements of the Engliſh tongue, wherein when any one makes too long a ſtay or pauſ before he begin to go on where his Foreman left, let him that takes it up firſt, go out in his place, and thus in order through all the reſt, every Scholar going out of the School in his Order, with Civility and Manners. 4. <hi>The Manner a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d Method of teaching theſe books,</hi> wherein it muſt be underſtood, that they are contrived, and compoſed onely for the perfecting of the <hi>loweſt, and lower Forms, and a competent entrance of the higher Form,</hi> and herein, though it will be your beſt order in hea<g ref="char:EOLhyphen"/>ring
+<pb n="14" facs="tcp:119615:12"/> of Leſſons or Exerciſe, to begin with the higheſt Form, and to end with the loweſt, yet in this my <hi>Direction, my Method</hi> muſt be to begin with the <hi>loweſt Form.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Directions for the Manner and Method in tea<g ref="char:EOLhyphen"/>ching the Loweſt Form.</head>
+               <p>THey of your <hi>Loweſt Form,</hi> are all to be the firſt Learners to <hi>know their L<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tters, and to ſpell,</hi> for whom all <hi>the Engliſh Syllabary</hi> (except the laſt Chap<g ref="char:EOLhyphen"/>ter,) is made in that Order you ſee; Having all your Scholars in this form diſciplin'd and marſhall'd, as was but now ſaid, when they are to ſay their Leſ<g ref="char:EOLhyphen"/>ſons, let them all ſtand out each <hi>in his place and or<g ref="char:EOLhyphen"/>der,</hi> with his book in his left hand, open, at the firſt Chapter, and his feskew <hi>on the foremoſt finger of his right hand,</hi> then bid ſometimes the <hi>higheſt,</hi> ſome<g ref="char:EOLhyphen"/>times the <hi>midlmost,</hi> and ſometimes the <hi>loweſt</hi> in that Form, or which you pleaſ, begin to name the firſt Letter <hi>[a]</hi> in a Engliſh Letter, he and all the reſt in the Form pointing at the ſame with their feskews: then let the next name the next letter, which is alſo <hi>[a]</hi> in a Roman letter, all the reſt likewiſe looking upon the ſame, and pointing thereat with their fes<g ref="char:EOLhyphen"/>kews; and the next <hi>[e]</hi> and ſo every one in order, thorough the Form, till they all perfectly know their
+<pb n="15" facs="tcp:119615:12"/> ſix vowels, where ever they ſee them in thoſe two Characters; but if your Scholars be very <hi>young,</hi> or dull, then let ſome Boy of the Form next abov, ſtand behind each ſuch, teaching them how to hold their books, and feskews, and how therein to direct their eyes and feskews, whereby in few dayes they will know what to do; When they have thus lear<g ref="char:EOLhyphen"/>ned <hi>their vowels,</hi> let them proceed to the next Chap<g ref="char:EOLhyphen"/>ter, there to learn their <hi>Conſonants,</hi> and to ſpell: where let them begin with thoſe ſeven lines in the two <hi>firſt Columns,</hi> which teach only 7 <hi>Conſonants</hi> by two and two of the neareſt affinity together, as <hi>d</hi> &amp; <hi>t, b</hi> &amp; <hi>p,</hi> &amp;c. wherein when they perfectly know them in any place, let them proceed to ſpelling, till they can <hi>spell,</hi> and tell all the <hi>Letters and Syllabls in the firſt three Sections</hi> perfectly without let, or ſtop, then let them take a new Leſſon, learning the three next Sections in the ſame manner they learned the three former, till they are well able to take all the ſix at one Leſſon; which when they can do, let them go on to the ſeventh Section, learning the ſame as they did the former, till they can perfectly ſpell them alſo. But here it muſt be noted, that in all theſe <hi>Nine Sections,</hi> and every where elſe, that you muſt not ſuffer your Scholars to call theſe ſix Letters <hi>h, g, j, v, w, z,</hi> as they are uſually, but moſt igno<g ref="char:EOLhyphen"/>rantly, and unfittingly called here in <hi>England,</hi> but to giv them names according to the Analogy of the names of the reſt of our <hi>Conſonants,</hi> and their own
+<pb n="16" facs="tcp:119615:13"/> proper powers, as not to call <hi>[h] [ache,]</hi> but <hi>[eh,]</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or <hi>[g] [jee,]</hi> but <hi>[guee;]</hi> nor to call <hi>[j] [i]</hi> but <hi>[jee;]</hi> nor <hi>[v] [u,]</hi> but <hi>[ev;]</hi> nor <hi>[w]</hi> doubl <hi>[u]</hi> but <hi>woo</hi>] nor <hi>[z] zed,</hi> nor <hi>zad,</hi> nor <hi>ez t,</hi> nor <hi>uzet,</hi> nor <hi>uzz<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rd,</hi> but <hi>[ez]</hi> the eaſ whereof in their lear<g ref="char:EOLhyphen"/>ning, and the benefit thereby in their proceeding, (this way being but once tryed, and ſufficiently proved) will be found to be the only way to ſmooth the greateſt roughneſs in this their firſt entrance to learning, by the obſervation and practice of theſe enſuing Rules in all ſpelling whatever.</p>
+               <div type="section">
+                  <head>Rules to be obſerved in spelling.</head>
+                  <p>
+                     <hi>Rule</hi> 1. <hi>[a]</hi> before <hi>[l]</hi> hath uſually in Engliſh words the ſound of <hi>[au]</hi> as in <hi>tall, ball, &amp;c.</hi> except in <hi>ſhall.</hi>
+                  </p>
+                  <p n="2">2. <hi>[o]</hi> after <hi>[w]</hi> or before <hi>[m]</hi> or <hi>[n]</hi> hath uſu<g ref="char:EOLhyphen"/>ally the ſound of] <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> as in <hi>w<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>t, ſom, ſon, &amp;c.</hi> before <hi>[ld]</hi> it hath often the ſound of <hi>[<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>u]</hi> as in <hi>old, bold,</hi> &amp;c.</p>
+                  <p n="3">3. <hi>[g]</hi> after <hi>[d]</hi> or before [<hi>e, i,</hi> or <hi>y,</hi>] hath the ſound of <hi>[j]</hi> ever elſe it keeps its own ſound.</p>
+                  <p n="4">4. <hi>[c]</hi> after <hi>[e] [i]</hi> or <hi>[y,]</hi> or before <hi>[r]</hi> after an Apoſtrophus, hath ever the ſound of <hi>[ſ,]</hi> as <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, <hi>ci<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>, cytron, lac't, fac't,</hi> ever elſe it hath the <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <hi>[k]</hi> as in <hi>cap, cope, cup, lack, crack;</hi> Ex<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> Engliſh words when it comes before <hi>[h]</hi> and <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ha<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> a ſound proper to it ſelf, as in <hi>chap, chi<gap reason="illegible" resp="#MURP" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>,</hi> 
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </p>
+                  <p n="5">
+                     <pb n="17" facs="tcp:119615:13"/>5 <hi>[ſ]</hi> In verbs, betwixt two vowels, and in the end of a word, hath uſually the ſound of <hi>[z]</hi> as in <hi>uſe, Jeſus, cauſ, &amp;c.</hi> The <hi>Limitations</hi> and <hi>Excepti<g ref="char:EOLhyphen"/>ons</hi> of theſe <hi>Rules,</hi> and many more, are reſerved to mine <hi>Engliſh Abcedary.</hi>
+                  </p>
+                  <p>All which conſidered aright, will direct you to teach your Scholars to begin to learn to <hi>spell</hi> thus: (<hi>h,</hi> calling it <hi>ch) i, h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, (v,</hi> calling it <hi>ev) a, va:</hi> in the fourth ſection, and <hi>w</hi> (calling it <hi>woo) y (wy)</hi> in the ſame ſection. So <hi>z,</hi> (calling it <hi>ez) o, zo</hi> in the ſeventh ſection; and in the ſame ſection to ſpell thus, <hi>c, a,</hi> for <hi>k a, ka: c, e,</hi> for <hi>ſ, e, ſc: c, i,</hi> for <hi>ſ, i, ſi: c, o,</hi> for <hi>k o, ko:</hi> &amp;c. <hi>g, a, ga: g, e,</hi> for <hi>jee, e, je: g, i,</hi> for <hi>j, i, ji: g, o, go, &amp;c. j</hi> (calling it <hi>jee) j. a, ja, j, e, je,</hi> &amp;c. All which you may conceiv from the fore<g ref="char:EOLhyphen"/>ſaid rules, and that ſpelling of <hi>ſ, c, k, g,</hi> and j, may be diſcerned by the braces: Alſo, when your Scholars can, according to theſe Rules, and Directions, rea<g ref="char:EOLhyphen"/>dily and perfectly ſpell all the <hi>firſt</hi> 9 <hi>Sections,</hi> (All which <hi>Sections,</hi> as theſe ſo the reſt through the Book, may be known by their lines drawn for that purpoſe) in the ſecond Chapter, at one Leſſon, then let them at the next Leſſon, take the two <hi>laſt Sections</hi> at ano<g ref="char:EOLhyphen"/>ther Leſſon, which they muſt needs do very perfect<g ref="char:EOLhyphen"/>ly (if taught as before directed) in once or twice ſay<g ref="char:EOLhyphen"/>ing over; After which, let them proceed on in the Book, learning to ſpell it in order, as it lies, follow<g ref="char:EOLhyphen"/>ing all the foreſaid directions, never going back, till they have learned to ſpell the twelv firſt Chapters,
+<pb n="18" facs="tcp:119615:14"/> 
+                     <hi>never taking a new Leſſon till they be perfect in the old;</hi> teaching them to obſerv theſe following dire<g ref="char:EOLhyphen"/>ctions more, that in all the laſt ſections of each Chapter, beginning with the third, what Digrams ſoever they meet with ending in <hi>e,</hi> in their ſpelling to ſay thus, <hi>e,</hi> for <hi>ee,</hi> as <hi>w, e,</hi> for <hi>wee, we;</hi> but in all o<g ref="char:EOLhyphen"/>ther words ending in <hi>e,</hi> with a ſingl Conſonant after another vowel, that <hi>e,</hi> is not ſounded, but draweth the Syllabl long, or <hi>changeth the ſound of c,</hi> or <hi>g;</hi> as <hi>bar,</hi> ſhort, by putting to <hi>e,</hi> is made <hi>bare,</hi> long: <hi>bit,</hi> ſhort, by puting to <hi>e,</hi> is made <hi>bite,</hi> long: and <hi>fac</hi> by putting to <hi>e,</hi> is made <hi>face,</hi> changing <hi>c,</hi> from the ſound of <hi>k,</hi> to the ſound of <hi>ſ: rag,</hi> by putting to <hi>e,</hi> is made <hi>rage,</hi> changing the ſound of <hi>g,</hi> into j, <hi>&amp;c.</hi> And that when two <hi>th</hi>'s com together, they muſt learn to ſound the one hard, as <hi>th,</hi> in <hi>thy</hi> the <hi>Pronoun,</hi> the o<g ref="char:EOLhyphen"/>ther ſoft, as <hi>th</hi> in <hi>thigh,</hi> the Member of a Mans body; when in this manner they have ſpelled over the twelv firſt Chapters, and are perfect therein, then that what they have learned may be deeply rooted, and firmly digeſted, let them go back again, and ſpell over <hi>the four firſt Chapters</hi> again, as formerly, and all the places after them, markt with <hi>hands, a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d ſtars,</hi> ſo far as therein they find the practice of any of the aforeſaid Rules. When this <hi>Loweſt Form</hi> hath gon over all them places in all the <hi>twelv firſt Chap<g ref="char:EOLhyphen"/>ters,</hi> let them in the next place proceed to the 13th Chapter, and there learn the <hi>Diphthongs,</hi> variouſly placed, as were the vowels in the firſt Chapter, firſt
+<pb n="19" facs="tcp:119615:14"/> teaching them to learn their names, by ſpelling <hi>a, i, ai, a, y,</hi> for <hi>a, i, ay, &amp;c.</hi> Which when they can do ſmoothly and readily, let them learn to name them by their ſound, and to do ſo ever after when they ſpell, where ever they meet with them; as in the next Section in their ſpelling, not to ſay <hi>b, a, i, bai,</hi> but <hi>b, ai bai, d, ay day,</hi> not <hi>d, a, y, day, &amp;c.</hi> And when they can, according to theſe, and all former directions therein uſefull, ſpell the 13th and 14th Chapters perfectly, then let them proceed to the lear<g ref="char:EOLhyphen"/>ning of all their <hi>Capital Letters,</hi> which are there ſet down, in three Characters, 1 <hi>Engliſh,</hi> 2 <hi>Roman,</hi> and 3 <hi>Italian,</hi> which when they have learned, they will know all their Letters, capital and ſmall, in all three Characters; for they had learned all their ſmall Letters in <hi>Engliſh,</hi> and <hi>Roman</hi> before; and ſo let them ſpell on thorough the Book, according to all the former directions, and Inſtructions, till they ſhall in a competent manner have ſpelled over the twenty two Chapters of the <hi>Engliſh Syllabary,</hi> which when they have don, let them ſpell over a<g ref="char:EOLhyphen"/>gain all the four firſt Chapters, and all places thorough the Book mark't with a hand, or a ſcar; ſpelling them ſo often over as will make them pret<g ref="char:EOLhyphen"/>ty nimbl, and ready, then let them ſpell over again only thoſe places mark't with hands; all which pla<g ref="char:EOLhyphen"/>ces ſo mark't with <hi>hands,</hi> or <hi>ſtars,</hi> are to be ſpelled ſo far in their laſt going over, as you ſhall diſcern therein the practice of any of the former Rules, eſ<g ref="char:EOLhyphen"/>pecially
+<pb n="20" facs="tcp:119615:15"/> for the ſonnding of <hi>c,</hi> and <hi>g.</hi> At which places mark't with <hi>hands</hi> and <hi>ſtars,</hi> are not abov a line, or two, wherein the force of thoſe rules ly: Except in the ſeventh page, where it beginneth with <hi>gab,</hi> and ends with <hi>gux:</hi> And in the ninth, beginning with <hi>cab,</hi> and ending with <hi>cuze;</hi> but if your Scholars in their ſpelling or Syllabls ſeem to be bogl'd at words ending in many Conſonants, let them ſpell to the <hi>vowel,</hi> or <hi>diphthong</hi> firſt, and then take the reſt, Con<g ref="char:EOLhyphen"/>ſonant by Conſonant, thus: As ſuppoſe the ſyllabl were <hi>crafts,</hi> or <hi>ſtrangld:</hi> then let them learn to find them, or the like words or ſyllabls out thus, <hi>c, r, a,</hi> cra, <hi>c, r, a, f,</hi> craf, <hi>c, r, a, f, t,</hi> craft, <hi>c, r, a, f, t, s,</hi> crafts; <hi>ſ, t, r, a,</hi> ſtra, <hi>ſt, r, a, n,</hi> ſtran, <hi>ſt, r, a, n, g,</hi> ſtrang, <hi>ſt, r, a, n, g, l,</hi> ſtrangl. <hi>st, r, a, n, g, l, d,</hi> ſtrangld. Thus when your Loweſt Form are according to theſe <hi>In<g ref="char:EOLhyphen"/>ſtructions, Rules, and Directions,</hi> perfected in ſpelling the two and twenty firſt Chapters of the <hi>Engliſh Syllabary,</hi> they are fitted to enter into the next form, which is <hi>the Lower Form.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Directions for Exerciſing the Loweſt Form.</head>
+               <p>VVHilſt your Loweſt Form, is learning to ſpell the twelv <hi>firſt Chapters,</hi> when you think fit, or can beſt, let them take what place you think fit<g ref="char:EOLhyphen"/>teſt
+<pb n="21" facs="tcp:119615:15"/> in their Books, and ſhow which be <hi>Vowels,</hi> and which be <hi>Conſonants,</hi> as in the <hi>laſt Section</hi> of the <hi>firſt Chapter,</hi> in this manner: <hi>[h]</hi> is a conſonant, <hi>[o]</hi> is a vowel, <hi>[v]</hi> is a conſonant, made of <hi>[u]</hi> vowel; <hi>[a]</hi> is a vowel, and ſo on, till they perfectly know which be <hi>Vowels,</hi> and which be <hi>Conſonants,</hi> uſing this for their exerciſe in the twelv firſt Chapters; till they have learned the <hi>thirteenth and fourteenth Chapters,</hi> which when they have learned, let them learn to be skilfull alſo in knowing which be <hi>proper Diphthongs,</hi> and which be <hi>improper,</hi> exerciſing them thus: <hi>[oi]</hi> is a proper Diphthong, made of <hi>[o]</hi> the prepoſitiv vowel, and <hi>[o]</hi> the ſubjunctiv; <hi>[ay]</hi> is a proper Diphthong, made of <hi>[a]</hi> the prepoſitiv vowel, and <hi>[y]</hi> for <hi>[i]</hi> the ſubjunctiv; <hi>[ow]</hi> is a proper Diphthong, made of <hi>[o]</hi> the prepoſitiv vowel, and <hi>[w]</hi> for <hi>[u]</hi> the ſubjunctiv, <hi>[ee]</hi> is an improper Diphthong, made of <hi>[e]</hi> and <hi>[e]</hi> and ſo on in the reſt, where, and when you pleaſ, till they readily know, which be <hi>Vowels,</hi> which <hi>Conſonants,</hi> and which <hi>Diphthongs,</hi> whether proper, or improper, which when they know perfectly, let them learn to ſpell all <hi>Monoſyllabls</hi> of all ſorts without book, according to the directions hereafter, for the uſe of the <hi>Spelling-table;</hi> but here it is requiſite that you know, what be the <hi>grounds, and Elements of our Engliſh Tongue;</hi> which your Scholars are to repeat over, in Order, at their going out, which are as followeth.</p>
+               <div type="section">
+                  <pb n="22" facs="tcp:119615:16"/>
+                  <head>The Elements of our Engliſh Tongue.</head>
+                  <list>
+                     <item>The twenty four Letters.
+<list>
+                           <item>
+                              <hi>a b c d e f g h i k l m n o p q r ſ t u w x y z.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>The ſix vowels.
+<list>
+                           <item>
+                              <hi>a, e, i, o, u y.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>The twelv proper Diphthongs.
+<list>
+                           <item>
+                              <hi>ai ei oi</hi>
+                           </item>
+                           <item>
+                              <hi>ay ey oy</hi>
+                           </item>
+                           <item>
+                              <hi>au eu ou</hi>
+                           </item>
+                           <item>
+                              <hi>aw ew ow</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>The four improper Diphthongs.
+<list>
+                           <item>
+                              <hi>ée oo ea oa</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>The eighteen Con<g ref="char:EOLhyphen"/>ſonants.
+<list>
+                           <item>
+                              <hi>b c d f g h k l m n p q r ſ t w x z. j v y.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Conſonants to be reformed in their names.
+<list>
+                           <item>
+                              <hi>g j h v w z.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>A Syllabl is a full and perfect ſound, &amp;c. as before in the Rules of Syllabication throughout.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="23" facs="tcp:119615:16"/>
+               <head>Directions for teaching the Lower Form.</head>
+               <p>YOur loweſt Form being thus perfected in ſpel<g ref="char:EOLhyphen"/>ling, you muſt now enter them in the next, which I call the <hi>lower form,</hi> wherein they are to learn to read, what they formerly ſpelled, which you muſt do in this manner; When that Form are to read their Leſſon, call them all out together, and let them all ſtand with their <hi>Books and feskews</hi> in order, as they did in ſpelling, then <hi>bidding the higheſt, midl<g ref="char:EOLhyphen"/>moſt, or loweſt, or whom you pleaſ,</hi> read the <hi>firſt ſyllabl</hi> in the firſt Chapter, all the reſt looking on, and pointing thereat with their feskews, be ready to read the <hi>ſyllabl,</hi> if bid, and when it is their turn; and thus let them read every Scholar his <hi>ſyllabl</hi> by turn, till they have learned over the 7 <hi>firſt Pages:</hi> then let them read them over again, every one his <hi>two, three, or four ſyllabls a piece,</hi> til they have in the ſame man<g ref="char:EOLhyphen"/>ner read over the ſame 7 firſt Pages; after that be<g ref="char:EOLhyphen"/>ginning to read the ſame again every Scholar rea<g ref="char:EOLhyphen"/>ding his line, in order, through the twenty two Chapters: and over the places <hi>mark't with hands, and stars, as was directed in spelling,</hi> til they are a<g ref="char:EOLhyphen"/>ble to read all the ſaid Chapters very readily, and perfectly; but eſpecially the four firſt Chapters, and all places mark't with <hi>hands, and ſtars,</hi> and
+<pb n="24" facs="tcp:119615:17"/> every <hi>laſt Section</hi> of every Chapter.</p>
+            </div>
+            <div type="part">
+               <head>Directions for the Exercize of the Lower Form.</head>
+               <p>VVHen your <hi>lower Form</hi> hath perfectly read the the three firſt Chapters of <hi>their Syllabary</hi> for their Exerciſe, let them take <hi>three,</hi> or <hi>four lines,</hi> in each <hi>laſt Section</hi> of <hi>every Chapter,</hi> in order, thorough the Book; as in the laſt Section of the <hi>third Chapter,</hi> ſaying thus: <hi>be</hi> is a digram, with its vowel in the ſecond place: <hi>eb</hi> is a digram, with its vowel in the firſt place &amp;c. So likewiſe in the <hi>fourth Chapter: eb</hi> is a digram, with its vowel in the firſt place: <hi>ad,</hi> is a digram, with its vowel in the firſt place: <hi>ide</hi> is a tri<g ref="char:EOLhyphen"/>gram, with one Conſonant in the ſecond place. In the fift <hi>Chapter: by</hi> is a digram, with its vowel in the ſecond place: <hi>try</hi> is a digram, with its vowel in the third place, <hi>&amp;c.</hi> In the ſixt <hi>Chapter: bab</hi> is a tri<g ref="char:EOLhyphen"/>gram, with its vowel in the ſecond place, <hi>&amp;c.</hi> Thus thorough the 22 <hi>Chapters,</hi> til they are prompt and ready therein, and have learned their Rules for <hi>Syl<g ref="char:EOLhyphen"/>labication,</hi> and then let them take any <hi>laſt Section</hi> in the ſaid <hi>Chapters:</hi> Except the three firſt, and learn to ſyllabicate Monoſyllabls in thi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> manner fol<g ref="char:EOLhyphen"/>lowing: <hi>Chap.</hi> 19. Section the laſt: <hi>brew'd,</hi> is a Mo<g ref="char:EOLhyphen"/>ſyllabl, though there be two vowels, becauſe <hi>ew</hi> is a
+<pb n="25" facs="tcp:119615:17"/> proper diphthong made of <hi>e</hi> the prepoſitiv vowel, and <hi>w,</hi> for <hi>u,</hi> the ſubjunctiv; therefore there is a vowel more than <hi>ſyllabls,</hi> according to the firſt Exception: <hi>breed</hi> is a <hi>Monoſyllabl,</hi> though there be two vowels, becauſ <hi>ee</hi> is an improper diphthong, made of <hi>e,</hi> and <hi>e,</hi> and therefore there is a vowel more than <hi>Syllabls,</hi> according to the firſt Exception. And in the tenth Chapter thus: <hi>dive,</hi> is a <hi>Monoſyllabl,</hi> though there may ſeem to be three vowels, becauſ <hi>v,</hi> is <hi>u</hi> vowel turned into <hi>ev</hi> conſonant, and therefore there may ſeem to be a vowel more than <hi>Syllabls,</hi> according to the ſecond Exception; and <hi>e</hi> in the end of an <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> word is not ſounded, according to the 2d rule for vowels, not ſounded; and therefore there is a vow<g ref="char:EOLhyphen"/>el more than <hi>ſyllabls,</hi> according to the third Excep<g ref="char:EOLhyphen"/>tion, and ſo on through the Book.</p>
+            </div>
+            <div type="part">
+               <head>Directions for teaching of the Higher Form.</head>
+               <p>VVHen you have brought your Scholars into the <hi>Higher Form,</hi> let them take their Leſſons in the forenoon in the twenty third Chapter of the <hi>Syllabary,</hi> learning to ſpell all the <hi>Polyſyllabls</hi> there<g ref="char:EOLhyphen"/>in, as ſhall be here directed, and read the <hi>Monoſylla<g ref="char:EOLhyphen"/>bary,</hi> every boy his line in the afternoons, as before in the <hi>Syllabary,</hi> till they can read it readily, and per<g ref="char:EOLhyphen"/>fectly, after that let them read what part of the Bible,
+<pb n="26" facs="tcp:119615:18"/> in the afternoons you ſhall think fit; in the fore<g ref="char:EOLhyphen"/>noons teaching them firſt to ſpel every <hi>Syllabl</hi> in or<g ref="char:EOLhyphen"/>der, as you ſee them there divided, and putting them together, as he ſpels them in this manner, <hi>c, h, a, p-</hi>chap, <hi>t, e, r, s</hi> ters chapters <hi>u, u, m,</hi> num-<hi>b, e, r, s</hi> bers, numbers, &amp;c. as in the firſt Section <hi>G, e</hi> for <hi>J, e;</hi> je, <hi>n, e,</hi> ne Gene-<hi>ſ, i, s</hi> ſis Geneſis <hi>E, x</hi> Ex, <hi>o</hi> per ſe, <hi>o,</hi> Exo, <hi>d, u, s</hi> dus, Exodus, &amp;c. as in the ſecond Secti<g ref="char:EOLhyphen"/>on, til they can ſpell the whole Chapter readily, and perfectly, without ſtop or ſtay, and then put them to learn to read the ſame, as they formerly learned to <hi>read Syllabls,</hi> and <hi>Monoſyllabls,</hi> which when they can read well, let them leav, and learn to read all the Rules of <hi>Syllabication,</hi> labouring to bring them to the underſtanding thereof, along as they learn them; which when they read readily, and underſtand com<g ref="char:EOLhyphen"/>petently, put them <hi>to learn by heart,</hi> which being don, put them continually to the Practice of their Rules, in Syllabication; as they read either theſe Directi<g ref="char:EOLhyphen"/>ons, or their Bibles, or both; for after they have learned them, they muſt learn theſe <hi>Directions</hi> in the forenoons, til they read them perfectly alſo, and af<g ref="char:EOLhyphen"/>ter that the Bible in both ends of the day, except the Teacher conceiv of ſome other Book fit to be taught therewith the one part of the day.</p>
+            </div>
+            <div type="part">
+               <pb n="27" facs="tcp:119615:18"/>
+               <head>Directions for the Exerciſe of the Higher Form.</head>
+               <p>WHen your <hi>Higher Form</hi> hath read their Rules of <hi>Syllabication,</hi> and ſomewhat underſtands them, let them learn to <hi>Syllabicate,</hi> which is to <hi>find out a word by its ſyllabls,</hi> which that they may do of themſelves when they have occaſion, let them exer<g ref="char:EOLhyphen"/>ciſe as followeth; for an inſtance herein, I will take 2 <hi>verſes,</hi> of the 4th <hi>Chapter</hi> of <hi>Proverbs,</hi>
+                  <q>
+                     <p>
+                        <bibl>
+                           <hi>13.</hi>
+                        </bibl> Take faſt hold of Inſtruction, let her not go; keep her, for ſhe is thy life.</p>
+                     <p>
+                        <bibl>
+                           <hi>23.</hi>
+                        </bibl> Keep thy heart with all diligence: for out of it are the iſſues of life.</p>
+                  </q> Which is ſyllabicated in this manner, <hi>Take</hi> is a <hi>Mo<g ref="char:EOLhyphen"/>noſyllabl,</hi> though there be two vowels, becauſ <hi>e</hi> in the end of a word is not ſounded, according to the 2 rule for vowels not ſounded; and therefore there is a vowel more than <hi>Syllabls,</hi> according to the third ex<g ref="char:EOLhyphen"/>ception, <hi>faſt</hi> is a tetragram, <hi>hold</hi> is a tetragram, <hi>hould,</hi> not <hi>hold,</hi> becauſe <hi>o</hi> before <hi>ld,</hi> hath the ſouud of <hi>ou,</hi> according to the 2d rule for ſpelling, <hi>Direct.</hi> p. 16. <hi>Inſtruction</hi> is a tetraſyllabl, becauſe it hath four vow<g ref="char:EOLhyphen"/>els, and no Exception: <hi>In-</hi> is the firſt <hi>ſyllabl,</hi> becauſ <hi>n</hi> and <hi>ſ</hi> are two Conſonants comming together, which cannot begin a word, and therefore cannot begin a <hi>ſyllabl,</hi> but muſt be divided, and the former
+<pb n="28" facs="tcp:119615:19"/> muſt begin the former <hi>ſyllabl</hi> and the latter muſt be<g ref="char:EOLhyphen"/>gin the latter, <hi>according to the third rule of Diviſio<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>; ſtruc-</hi> is the ſecond <hi>ſyllabl,</hi> becauſ <hi>c,</hi> and <hi>t,</hi> are two conſonants comming together, which cannot begin a word, and therefore cannot begin a <hi>ſyllabl,</hi> but muſt be divided, according to the ſame third Rule of Di<g ref="char:EOLhyphen"/>viſion, <hi>struck,</hi> not <hi>ſtruſ.</hi> becauſe <hi>c,</hi> before <hi>e, i,</hi> or <hi>y,</hi> &amp;c. as in the third Rule for ſpelling, <hi>Direc.</hi> p. 16. <hi>inſtruc: ti-</hi> is the third <hi>ſyllabl,</hi> becauſe <hi>i,</hi> and <hi>o,</hi> are two vowels comming together, and no <hi>Diph<g ref="char:EOLhyphen"/>thong,</hi> therefore they muſt be divided, and the for<g ref="char:EOLhyphen"/>mer muſt end the former <hi>ſyllabl,</hi> and the latter muſt begin the latter, according to the firſt Rule of Divi<g ref="char:EOLhyphen"/>ſion: <hi>ſhi,</hi> not <hi>ti,</hi> becauſ <hi>ti,</hi> before a vowel, hath uſu<g ref="char:EOLhyphen"/>ally the ſound of <hi>ſhi, inſtructi on,</hi> is the laſt <hi>ſyllabl, Inſtruction,</hi> all the following <hi>Monoſyllabls</hi> as before, <hi>Diligence</hi> is a <hi>Triſſyllabl,</hi> though there are four vow<g ref="char:EOLhyphen"/>els, becauſe <hi>e,</hi> in the end of an Engliſh word is not ſounded, according to the Rule for vowels not ſoun<g ref="char:EOLhyphen"/>ded; therefore there muſt be a vowel more than <hi>ſyl<g ref="char:EOLhyphen"/>labls,</hi> according to the third Exception: <hi>di,</hi> is the firſt <hi>Syllabl,</hi> becauſe <hi>l</hi> is one conſonant comming be<g ref="char:EOLhyphen"/>twixt two vowels; therefore it muſt begin the follow<g ref="char:EOLhyphen"/>ing <hi>ſyllabl,</hi> according to the ſecond rule of Diviſion, <hi>dili-gence</hi> is the laſt <hi>ſyllabl: jence,</hi> not <hi>guence,</hi> becauſ <hi>g,</hi> after <hi>d,</hi> and before <hi>e, i,</hi> and <hi>y,</hi> &amp;c. <hi>genſe,</hi> not <hi>genke</hi> becauſ <hi>c,</hi> before <hi>e, i,</hi> or <hi>y,</hi> &amp;c. <hi>diligence,</hi> and ſo the reſt. Theſe are all the <hi>Directions</hi> I can as yet give, by reaſon mine <hi>Abcedary</hi> is not yet made publick,
+<pb n="29" facs="tcp:119615:19"/> wherein this form and the higheſt are to be perfected in reading the hardeſt <hi>Engliſh</hi> can be gathered out of Hiſtory, Divine, or Prophane, and all other Lear<g ref="char:EOLhyphen"/>ning; as alſo to be taught the firſt part of Arithme<g ref="char:EOLhyphen"/>tick, with the Derivations and Compoſitions in our Mother Tongue and learning to write the ſame: only there is one Exerciſe more to be generally uſed amongſt all your Scholars, at ſuch time as you ſhall find fit, which is to hear all your Scholars ſpell all <hi>Monoſyllabls,</hi> by the help of the <hi>Table of spelling;</hi> which Table, and the uſe thereof followeth.</p>
+            </div>
+            <div type="part">
+               <head>The uſe of the Spelling-Table.</head>
+               <p>THe main Scope and Intent of this enſuing Ta<g ref="char:EOLhyphen"/>ble, is an help and directi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <hi>to the Teacher of theſe Books, in exerciſing</hi> their Scholars to ſpell a<g ref="char:EOLhyphen"/>ny Engliſh <hi>Monoſyllabl,</hi> which will be beſt for them to do every day, <hi>more or leſs;</hi> for which purpoſe the Table you ſee is divided into Nine columns: in the <hi>fourth</hi> whereof are the ſix vowels, without which no Articulate ſound can be made, before which there are <hi>three Columns,</hi> wherein are all Conſonants which may begin a word, in the firſt whereof are all the three Conſonants which may begin a word; in the
+<pb n="30" facs="tcp:119615:20"/> ſecond all <hi>the two;</hi> and in the third all the <hi>ſingl;</hi> after which are five Columns, in the fift whereof are all <hi>Diphthongs, proper and improper,</hi> all which may <hi>begin or end a word;</hi> after which are <hi>four Columes,</hi> wherein are all <hi>Conſonants,</hi> which may <hi>end a word;</hi> the <hi>ſixt Column</hi> conteining all <hi>ſingl Conſonants;</hi> the <hi>ſeventh</hi> all the <hi>two Con<g ref="char:EOLhyphen"/>ſonants;</hi> the <hi>eight all three;</hi> and the <hi>ninth all four</hi> which may end a word; whereby exerciſe them in ſpelling all <hi>words</hi> or <hi>ſyllabls,</hi> beginning with them of two letters, then proceeding to them of three, and ſo in order, till you have gone thorough all ſorts of ſyllabls, and monoſyllabls, ending with them of nine letters, which is done in this manner, at the firſt ſet all your Schollars <hi>in order,</hi> then ask one what ſpells <hi>ba,</hi> he will anſwer b, a, the ſecond what ſpells <hi>[be]</hi> he will anſwer <hi>b, e,</hi> then anſwer him, that is <hi>be</hi> the <hi>ſyllabl,</hi> but how ſpell you <hi>be,</hi> to which teach him to anſwer <hi>b, e,</hi> for <hi>b, ee;</hi> th n ſay this is <hi>[be]</hi> the verb, but how ſpell you the <hi>bee,</hi> that makes Honey; to which let him anſwer <hi>b, ee;</hi> then demand whereof is <hi>ee</hi> made; to which teach him to anſwer, <hi>e,</hi> and <hi>e;</hi> and ſo in every word wherein you may obſerv <hi>diffe<g ref="char:EOLhyphen"/>rence of ſignification,</hi> diſtinguiſht by <hi>difference in ſpelling or writing</hi> as in <hi>due,</hi> and <hi>dew: too</hi>
+                  <pb n="31" facs="tcp:119615:20"/> and <hi>two;</hi> ſo <hi>black</hi> and <hi>blake; ſtar</hi> and <hi>ſtare,</hi> and ſuch like: from which few the leaſt of <hi>capacity and ingenuity,</hi> may gather the <hi>uſe, and practiſe of the whole Table.</hi> Only here it may be remem<g ref="char:EOLhyphen"/>bred, that I conceiv it beſt (eſpecially at the firſt) to make this a dayly exerciſe for your <hi>whole School,</hi> and afterward for <hi>every Form</hi> their part and por<g ref="char:EOLhyphen"/>tion, according to their learning and ability, and the diſcretion of the <hi>Teacher;</hi> and every <hi>Form</hi> to perform their ſeveral exerciſe in knowing their Vow<g ref="char:EOLhyphen"/>els, Diphthongs, and Conſonants: by Syllabycation, (according to their learning and ability,) them two hours they learn in a <hi>Thurſday in the afternoon, and the Saturday in the forenoon,</hi> except they be able to learn their <hi>Catechiſm,</hi> or Precepts of Manners.</p>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:119615:21"/>
+            <head>ERRATA.</head>
+            <p>
+               <hi>CUrteous Well-wiſhers,</hi> you who are pleaſed to make uſe of theſe ſeveral Tracts; amongſt many, I beſeech you cor<g ref="char:EOLhyphen"/>rect theſe following faults with your Pen, as moſt Ma<g ref="char:EOLhyphen"/>terial. In the <hi>Syllabary,</hi> pag. 2. line the laſt, <hi>lm,</hi> make <hi>la,</hi> p. 3. l. 15. <hi>oo,</hi> m. <hi>oc.</hi> p. 14. l. 20. <hi>dtoſs,</hi> m. <hi>droſs.</hi> p. 17. l. 11. <hi>wive,</hi> make <hi>wive.</hi> p. 18. col. 2. l. 2. <hi>nncl,</hi> m. <hi>uncl.</hi> p. 19. col. 1. l. 2. <hi>uskc,</hi> m. <hi>usk't.</hi> p. 20. l. 2. <hi>uow,</hi> m. <hi>now.</hi> p. 32. l. 3. <hi>Eng-liſh,</hi> m. <hi>En-gliſh.</hi> l. 20. <hi>da-mo-ſell,</hi> m. <hi>damo-ſell,</hi> l. 22. <hi>vic-tu-alls,</hi> m. <hi>victu-alls.</hi> l. 25. <hi>hated,</hi> m. <hi>ha-ted.</hi>
+            </p>
+            <p>In the Epiſtl to the Teachers of the <hi>Monoſyllabary,</hi> there is this clauſ, <hi>You muſt have skill, in thoſe Rules, I have ſet out be<g ref="char:EOLhyphen"/>fore my Syllabary,</hi> which Rules are now in the 16 pag. of theſe Directions. In which <hi>Monoſyllabary</hi> are ſome faults, the chief whereof I wiſh you to correct thus: Chap. 4. l. 8. <hi>tu,</hi> m. <hi>to.</hi> c. 8. l. 70. <hi>begets,</hi> m. <hi>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ts,</hi> l. 73. dele <hi>one.</hi> l. 79. <hi>ever,</hi> m. <hi>e're,</hi> c. 9. l. 28. <hi>before,</hi> m. <hi>e're.</hi> l. 39. <hi>over,</hi> m. <hi>o're.</hi> c. 11. dele lines 6, &amp; 7: l. 8. <hi>judg's,</hi> m. <hi>judg.</hi> l. 9. <hi>ledg's,</hi> m. <hi>ledg.</hi> ib. <hi>wedg's,</hi> m. <hi>wedg.</hi> c. 13. l. 23. <hi>His,</hi> m. <hi>As.</hi> c. 16. dele l. 6. c. 18. l. 1. <hi>Theſe ſiegs,</hi> m. <hi>This ſiege.</hi>
+            </p>
+            <p>In the Directions, p. 2. l. 11. <hi>in,</hi> m. <hi>in,</hi> p. 3. l. 17. put <hi>ſub<g ref="char:EOLhyphen"/>till</hi> after <hi>Medicin.</hi> l. 18. dele <hi>ſubtill.</hi> p. 4. l. 12. <hi>Polyſabls,</hi> m. <hi>Polyſyllabls.</hi> p. 8. l. 7. <hi>Appren<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ices,</hi> m. <hi>Apprentices.</hi> p. 10. l. 19. <hi>buſineſs,</hi> m. <hi>buiſineſs.</hi> p. 13. l. 6. <hi>jaconvenience,</hi> m. <hi>Inconveni<g ref="char:EOLhyphen"/>ence.</hi> p. 16. l. 22. <hi>after,</hi> m. <hi>before.</hi> p. 24. l. 16. <hi>Digram,</hi> m. <hi>Tri<g ref="char:EOLhyphen"/>gram.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
